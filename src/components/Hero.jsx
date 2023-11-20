@@ -16,12 +16,11 @@ const Hero = () => {
 
         </nav>
         <h1 className='head_text'>
-            Summarize Articles with <br 
-            className='max-md:hidden' />
+            Summarize Articles with <br className='max-md:hidden' />
             <span className='pink_gradient'>GPT-4</span>
         </h1>
         <h2 className='desc'>
-            <span className='orange_gradient'>Summarize any article</span> with the GPT-4.
+            Effortlessly transform lengthy online articles into concise summaries with this GPT-4 powered tool.
 
         </h2>
 
