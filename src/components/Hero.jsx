@@ -1,4 +1,5 @@
-import { logo } from '../assets'
+import logo from '../assets/summarizer_90h.png'
+
 const Hero = () => {
   return (
     <header className="w-full flex justify-center items-center flex-col">
@@ -17,10 +18,11 @@ const Hero = () => {
         <h1 className='head_text'>
             Summarize Articles with <br 
             className='max-md:hidden' />
-            <span className='orange_gradient'>GPT-4</span>
+            <span className='pink_gradient'>GPT-4</span>
         </h1>
         <h2 className='desc'>
             <span className='orange_gradient'>Summarize any article</span> with the GPT-4.
+
         </h2>
 
 
